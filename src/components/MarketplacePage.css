@@ -1,0 +1,29 @@
+/* src/components/MarketplacePage.css */
+.search-bar {
+    margin-bottom: 20px;
+  }
+  
+  .advertisements {
+    margin-bottom: 20px;
+  }
+  
+  .advertisement {
+    background-color: #f0f0f0;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  
+  .product-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  
+  .product-card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+  }
